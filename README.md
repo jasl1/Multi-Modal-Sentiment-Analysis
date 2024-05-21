@@ -1,4 +1,4 @@
-# Multi-Modal-Sentiment-Analysis
+# Multi-Modal Sentiment Analysis
 In this, project we develop a multi-modal sentiment analysis model to predict the sentiment (positive/negative) of movie reviews. We'll create a sentiment analysis model for movie reviews using RNN/LSTM, deploy it on AWS, manage the codebase with Git, and utilize multi-modal analysis by combining text data with metadata like genre or release year.
 
 ### Dataset: 
